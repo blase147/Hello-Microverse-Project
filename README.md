@@ -8,7 +8,6 @@
 ## Built With
 
 - HTLM & CSS5
-- CSS
 
 ## Authors
 
