@@ -7,13 +7,10 @@
 
 ## Built With
 
-- HTLM
+- HTLM & CSS5
 - CSS
-- Linter
 
-To get a local copy up and running follow these simple example steps.
-
-## Author
+## Authors
 
 👤 **Chukwuma Paul Mosanya**
 
